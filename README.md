@@ -21,8 +21,9 @@ Located in [.github/skills/](.github/skills/), each skill is a modular package t
 - **[web-artifacts-builder](/.github/skills/web-artifacts-builder/SKILL.md)** - Create React/TypeScript web artifacts with modern tooling
 - **[webapp-testing](/.github/skills/webapp-testing/SKILL.md)** - Test web applications using Playwright
 
-#### Documentation Skills
+#### Documentation & Research Skills
 - **[doc-coauthoring](/.github/skills/doc-coauthoring/SKILL.md)** - Collaborative document creation and testing workflow
+- **[research-assistant](/.github/skills/research-assistant/SKILL.md)** - Multi-stage research workflow for thorough investigation and analysis
 
 ### 📚 Examples & Templates
 
